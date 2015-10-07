@@ -17,6 +17,7 @@ public class JavaApplication7 {
     public static void main(String[] args) {
         System.out.println("Mohamed"); 
         System.out.println("bonjour");
+        System.out.println("nouvelle modification");
     }
     
 }
